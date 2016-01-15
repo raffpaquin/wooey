@@ -1,0 +1,11 @@
+django==1.8
+wooey
+django-sslify
+django-storages
+django-celery
+django-autoslug
+boto
+waitress
+psycopg2
+collectfast
+honcho
